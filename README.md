@@ -5,5 +5,5 @@ Data extracted, tidied, and loaded into visualizations all from scratch through 
 severity of fan engagement for each March Madness game via Twitter API, ShinyR web application, and streamlined data.
 
 Used import->tidy->transform->visualize->model->communicate mechanism. 
-
+ 
 # 4/27/2019
