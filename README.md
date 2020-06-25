@@ -1,3 +1,5 @@
+![Sample_Img](https://github.com/AmeyaShahane/MarchMadness/blob/master/wordcloud.png)
+
 # MarchMadness
 
 Project done during Spring 2019 season made public based on March Madnesss season.
